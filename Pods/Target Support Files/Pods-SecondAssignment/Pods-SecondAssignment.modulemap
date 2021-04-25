@@ -1,0 +1,6 @@
+framework module Pods_SecondAssignment {
+  umbrella header "Pods-SecondAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
